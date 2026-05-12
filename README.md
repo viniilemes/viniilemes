@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Vinícius Lemes dos Santos
+# 👨🏾‍💻 Vinícius Lemes dos Santos
 
 **`Desenvolvedor Full Stack | Data Analysis`**
 
